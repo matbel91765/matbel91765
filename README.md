@@ -23,8 +23,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matbel91765&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matbel91765&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top langs" height="165" />
 </p>
 
 <p align="center">
